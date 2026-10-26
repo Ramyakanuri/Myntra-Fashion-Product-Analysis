@@ -45,3 +45,12 @@ The dashboard summarizes product and brand counts, average pricing, gender distr
 This project demonstrates how Power BI can be used to explore fashion e-commerce catalog data and communicate product, brand, and pricing patterns through visual analytics.
 
 **Note:** This project analyzes product catalog data. It does not measure actual sales, revenue, profit, customer purchases, or inventory performance.
+
+
+## Dashboard Preview
+
+### Welcome Page
+![Myntra Welcome Page](screenshots/welcome_page.png)
+
+### Fashion Analysis Dashboard
+![Fashion Analysis Dashboard](screenshots/fashion_analysis_dashboard.png)
