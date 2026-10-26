@@ -20,7 +20,7 @@ The dataset includes product IDs, product names, brands, gender categories, pric
 
 ## Tools Used
 - **Power BI Desktop** — Dashboard development and visualization
-- **Power Query** — Data preparation, if used in the project
+- **Power Query** — Data preparation
 
 ## Analysis Performed
 - **Product Overview:** Total product count and distinct brand count.
